@@ -1,7 +1,5 @@
-class Greetings
-{
-  public static void main(String[] args)
-{
-  System.out.print("hey!this is rithika");
-}
+class Greetings {
+    public static void main(String[] args) {
+        System.out.println("Hello from Jenkins!");
+    }
 }
